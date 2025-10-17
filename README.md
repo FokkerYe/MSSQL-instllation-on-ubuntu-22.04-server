@@ -105,6 +105,7 @@ source ~/.bashrc
 version 17 path = /opt/mssql-tools/bin
 
 version 18 path = /opt/mssql-tools18/bin
+Ref link = https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-ubuntu?view=sql-server-ver17&tabs=ubuntu2004%2C2025ubuntu2204%2Codbc-ubuntu-2204
 
 
 
